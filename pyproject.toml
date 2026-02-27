@@ -5,5 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "crispy-bootstrap5>=2025.6",
+    "debugpy>=1.8.20",
     "django>=6.0.2",
+    "django-crispy-forms>=2.5",
+    "pillow>=12.1.1",
 ]
